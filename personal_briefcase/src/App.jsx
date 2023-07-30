@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Navbar from "./components/NavBar/NavBar";
+import NavigationBar from "./components/NavigationBar/NavigationBar";
 import Header from "./components/Header/Header";
 import Grid from "./components/Grid/Grid";
 import Footer from "./components/Footer/Footer";
@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <Navbar />
+      <NavigationBar />
       <Header />
       <Grid />
       <Works />
