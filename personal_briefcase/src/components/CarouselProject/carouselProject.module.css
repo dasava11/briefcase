@@ -1,0 +1,50 @@
+.carouselDetailGame {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 400px;
+  margin: auto;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.carouselDetail {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.carButnLft {
+  width: 35px;
+  height: 35px;
+  background-color: rgba(255, 255, 255, 0.483);
+  border: none;
+  font-size: xx-large;
+  color: rgba(25, 25, 249, 0.766);
+  /* border-radius: 50%; */
+  position: absolute;
+  left: 3%;
+  top: 50%;
+  cursor: pointer;
+}
+
+.carButnRig {
+  width: 35px;
+  height: 35px;
+  background-color: rgba(255, 255, 255, 0.483);
+  border: none;
+  font-size: xx-large;
+  color: rgba(25, 25, 249, 0.766);
+  /* border-radius: 50%; */
+  position: absolute;
+  right: 3%;
+  top: 50%;
+  cursor: pointer;
+}
+
+.imageCorouselGame {
+  object-fit: cover;
+}
