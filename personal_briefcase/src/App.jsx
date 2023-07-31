@@ -11,13 +11,13 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div>
+    <div className="flex-grow">
       <NavigationBar />
       <Header />
       <Grid />
       <Works />
       <Contact />
-      <Footer />
+      <Footer className="mt-auto" />
     </div>
   );
 }
