@@ -6,7 +6,7 @@ const posts = [
     title: "FrontEnd",
     description:
       "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
-    tools: ["HTML", "CSS", "React", "React-Redux", "vite", "Tailwind"],
+    tools: ["HTML", "CSS", "React", "Angular", "vite", "Tailwind", "Bootstrap"],
     image: "https://img.icons8.com/ios/100/monitor--v1.png",
   },
   {
@@ -14,7 +14,7 @@ const posts = [
     title: "BackEnd",
     description:
       "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
-    tools: ["JavaScript", "NodeJs", "Express", "PostgreSQL"],
+    tools: ["JavaScript", "NodeJs", "Express", "PostgreSQL", "MySQL"],
     image: "https://img.icons8.com/ios/100/code--v1.png",
   },
   {
@@ -22,7 +22,7 @@ const posts = [
     title: "Herramientas",
     description:
       "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
-    tools: ["Postman", "PgAdmin", "Figma", "Scrum", "Kanban"],
+    tools: ["Postman", "PgAdmin", "Figma", "Scrum", "Kanban", "git", "MySQLWorkbench"],
     image: "https://img.icons8.com/ios/100/data-arrived.png",
   },
 ];
