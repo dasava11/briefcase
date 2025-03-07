@@ -17,9 +17,20 @@ const Header = () => {
         partir de esta base estoy interesado en especializarme como FrontEnd.
       </p>{" "}
       <p className="text-center mt-3 mx-6  py-2 px-10">
-        Soy <span className="font-bold">desarrollador FullStack</span> con background en ingeniería ambiental que me ha aportado en el crecimiento y fortalecimiento de competencias como el trabajo en equipo, análisis de datos, coordinación de grupos y manejo de auditorías. 
-        .{" "}
-        Además, estoy en proceso de culminar mis estudios como tecnólogo en análisis y desarrollo de software en el SENA. Aunque mi experiencia profesional en el área de tecnología es aún breve, considero que mis conocimientos y habilidades en HTML, CSS, UX, JavaScript, React, uso de herramientas como git, figma, trello y frameworks de estilo me permitirían aportar valor a un equipo de trabajo desde el inicio. Así las cosas, confío en que mis conocimientos en buenas prácticas de programación, junto con mis habilidades blandas, pueden aportar significativamente al trabajo colaborativo y al ambiente de un equipo. Actualmente, estoy cerrando una etapa como ingeniero ambiental, en la cual me he consolidado como un profesional sobresaliente. Sin embargo, estoy decidido a incursionar en la nueva trayectoria del desarrollo de software, con la seguridad de que, al recibir una oportunidad, podré destacar y contribuir de manera significativa.
+        Soy <span className="font-bold">desarrollador FullStack</span> con background
+        en ingeniería ambiental que me ha aportado en el crecimiento y fortalecimiento
+        de competencias como el trabajo en equipo, análisis de datos, coordinación de grupos
+        y manejo de auditorías.{" "}
+        Además, estoy en proceso de culminar mis estudios como tecnólogo en análisis y desarrollo
+        de software en el SENA. Aunque mi experiencia profesional en el área de tecnología es aún breve,
+        considero que mis conocimientos y habilidades en HTML, CSS, UX, JavaScript, React, 
+        uso de herramientas como git, figma, trello y frameworks de estilo me permitirían aportar valor 
+        a un equipo de trabajo desde el inicio. Así las cosas, confío en que mis conocimientos en buenas 
+        prácticas de programación, junto con mis habilidades blandas, pueden aportar significativamente 
+        al trabajo colaborativo y al ambiente de un equipo. Actualmente, estoy cerrando una etapa como 
+        ingeniero ambiental, en la cual me he consolidado como un profesional sobresaliente. 
+        Sin embargo, estoy decidido a incursionar en la nueva trayectoria del desarrollo de software, 
+        con la seguridad de que, al recibir una oportunidad, podré destacar y contribuir de manera significativa.
       </p>
     </div>
   );
